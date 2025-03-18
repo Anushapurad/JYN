@@ -1,0 +1,2 @@
+# JYN
+AI for Marketing
